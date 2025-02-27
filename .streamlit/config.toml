@@ -1,0 +1,16 @@
+[client]
+showSidebarNavigation = false
+
+[browser]
+serverPort = 8501
+serverAddress = "localhost"
+
+[theme]
+primaryColor="#cf2422"
+#backgroundColor="#8a8383"
+#secondaryBackgroundColor="#343232"
+textColor="#31333F"
+font="sans serif"
+
+[runner]
+fastReruns = false
