@@ -21,7 +21,7 @@ with st.sidebar:
         options=["Feminicídios", "Violência doméstica", "Secretária de saúde",],
         icons=["house", "filter", "info-circle"],
         menu_icon="cast",
-        default_index=3,
+        default_index=0,
         orientation="horizontal",
     )
 
